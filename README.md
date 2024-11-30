@@ -25,6 +25,8 @@ I'm always on the lookout for exciting projects to collaborate on or new technol
 
 ---
 
+![GitHub Snake animation](https://raw.githubusercontent.com/MythEclipse/MythEclipse/output/snake.svg)
+
 Feel free to explore my repositories and drop by with any suggestions or feedback. Let's build something amazing together!
 
 ---
