@@ -17,7 +17,6 @@ I'm always on the lookout for exciting projects to collaborate on or new technol
 ## 🛠️ My Skills:
 - Frontend development with Vue.js & JSX
 - Backend scripting with Python & JavaScript
-- Systems programming with C++
 
 ---
 
