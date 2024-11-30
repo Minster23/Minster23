@@ -27,6 +27,13 @@ I'm always on the lookout for exciting projects to collaborate on or new technol
 
 ---
 
+## 📊 Fun Metrics
+
+- 🕐 **Coding Time This Week:**  
+  ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=PanPan)
+
+---
+
 ## 🛠️ My Skills:
 - Frontend development with Vue.js & JSX
 - Backend scripting with Python & JavaScript
