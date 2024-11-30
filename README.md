@@ -31,8 +31,6 @@ I'm always on the lookout for exciting projects to collaborate on or new technol
 - Frontend development with Vue.js & JSX
 - Backend scripting with Python & JavaScript
 
----
-
 ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFkanBpNDM2dzJwYnQ5ZGswZnkzaWRlMnpiN29mZTM2dDI0bjBvaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GyMM5HbTjiMIUPsKmL/giphy.gif)
 
 ---
