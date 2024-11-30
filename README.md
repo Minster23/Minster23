@@ -1,5 +1,7 @@
 # 👋 Hi, I'm PanPan!
 
+![Profile Views](https://komarev.com/ghpvc/?username=PanPan&color=blue)
+
 Welcome to my GitHub profile!  
 
 I've been coding since 2020 and have explored various languages and frameworks. My main areas of expertise include:
