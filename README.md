@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm PanPan!
 
-<!--
-**Minster23/Minster23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+I've been coding since 2020 and have explored various languages and frameworks. My main areas of expertise include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **JavaScript**
+- **Python**
+- **C++**
+- **Vue.js**
+- **JSX**
+
+I'm always on the lookout for exciting projects to collaborate on or new technologies to learn. If you have any ideas or opportunities, feel free to reach out!
+
+---
+
+## 🛠️ My Skills:
+- Frontend development with Vue.js & JSX
+- Backend scripting with Python & JavaScript
+- Systems programming with C++
+
+---
+
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+---
+
+Feel free to explore my repositories and drop by with any suggestions or feedback. Let's build something amazing together!
+
+📫 **Contact Me:**  
+- Email: [your-email@example.com](mailto:your-email@example.com)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)  
+
+---
+🌟 Don't forget to star my repositories if you like them!
