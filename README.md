@@ -4,6 +4,17 @@
 
 Welcome to my GitHub profile!  
 
+---
+
+## 🚀 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PanPan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanPan&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
 I've been coding since 2020 and have explored various languages and frameworks. My main areas of expertise include:
 
 - **JavaScript**
