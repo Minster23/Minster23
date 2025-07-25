@@ -22,6 +22,8 @@ I've been coding since 2020 and have explored various languages and frameworks. 
 - **C++**
 - **Vue.js**
 - **JSX**
+- **React.js**
+- **Unity(C#)**
 
 I'm always on the lookout for exciting projects to collaborate on or new technologies to learn. If you have any ideas or opportunities, feel free to reach out!
 
