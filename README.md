@@ -21,7 +21,6 @@ I've been coding since 2020 and have explored various languages and frameworks. 
 - **JavaScript**
 - **Python**
 - **C++**
-- **Vue.js**
 - **JSX**
 - **React.js**
 - **Unity(C#)**
@@ -31,8 +30,8 @@ I'm always on the lookout for exciting projects to collaborate on or new technol
 ---
 
 ## 🛠️ My Skills:
-- Frontend development with Vue.js & JSX
-- Backend scripting with Python & JavaScript
+- Frontend development with React and React Native
+- Backend scripting with Python, Javascript(node.js) and C++ 
 
 ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFkanBpNDM2dzJwYnQ5ZGswZnkzaWRlMnpiN29mZTM2dDI0bjBvaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GyMM5HbTjiMIUPsKmL/giphy.gif)
 
