@@ -20,6 +20,8 @@ I've been coding since 2020 and have explored various languages and frameworks. 
 - **JavaScript**
 - **Python**
 - **Typescript**
+- **Nim**
+- **Lua**
 - **C++**
 
 ### Backend
