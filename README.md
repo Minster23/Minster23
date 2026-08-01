@@ -16,12 +16,24 @@ Welcome to my GitHub profile!
 
 I've been coding since 2020 and have explored various languages and frameworks. My main areas of expertise include:
 
+#Languages
 - **JavaScript**
 - **Python**
 - **C++**
-- **JSX**
-- **React.js**
-- **Unity(C#)**
+
+#Backend
+- **Elysia**
+- **Express**
+- **Hono.JS**
+  
+#Frontend
+- **Vue**
+- **React**
+
+#Game Develpoment
+- **Unity**
+- **Godot**
+- **OpenGL**
 
 I'm always on the lookout for exciting projects to collaborate on or new technologies to learn. If you have any ideas or opportunities, feel free to reach out!
 
