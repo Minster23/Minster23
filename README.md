@@ -19,6 +19,7 @@ I've been coding since 2020 and have explored various languages and frameworks. 
 ### Languages
 - **JavaScript**
 - **Python**
+- **Typescript**
 - **C++**
 
 ### Backend
