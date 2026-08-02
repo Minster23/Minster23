@@ -23,6 +23,7 @@ I've been coding since 2020 and have explored various languages and frameworks. 
 - **Nim**
 - **Lua**
 - **C++**
+- **Golang**
 
 ### Backend
 - **Elysia**
