@@ -1,7 +1,7 @@
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Minster23&theme=tokyonight)](https://github.com/Minster23)
 ---
 
-## 🚀 My GitHub Stats
+## My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panpan&theme=dracula&hide_border=false" />
