@@ -27,8 +27,8 @@ I've been coding since 2020 and have explored various languages and frameworks. 
 
 ### Backend
 ![](https://img.shields.io/badge/-Elysia-informational?style=flat-square)
-![](https://img.shields.io/badge/-Express.JS-success?style=flat-square)
-![](https://img.shields.io/badge/-Hono.js-success?style=flat-square)
+![](https://img.shields.io/badge/-Express.js-informational?style=flat-square)
+![](https://img.shields.io/badge/-Hono.js-informational?style=flat-square)
   
 ### Frontend
 ![](https://img.shields.io/badge/-Vue-orange?style=flat-square)
