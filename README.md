@@ -17,13 +17,7 @@ Welcome to my GitHub profile!
 I've been coding since 2020 and have explored various languages and frameworks. My main areas of expertise include:
 
 ### Languages
-- **JavaScript**
-- **Python**
-- **Typescript**
-- **Nim**
-- **Lua**
-- **C++**
-- **Golang**
+![](https://img.shields.io/badge/-C%2B%2B-brightgreen?style=flat-square)
 
 ### Backend
 - **Elysia**
