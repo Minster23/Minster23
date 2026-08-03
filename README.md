@@ -19,15 +19,20 @@ I've been coding since 2020 and have explored various languages and frameworks. 
 ### Languages
 ![](https://img.shields.io/badge/-C%2B%2B-brightgreen?style=flat-square)
 ![](https://img.shields.io/badge/-Golang-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/-Javascript-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/-Typescript-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/-Nim-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/-C%23-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/-Lua-brightgreen?style=flat-square)
 
 ### Backend
-- **Elysia**
-- **Express**
-- **Hono.JS**
+![](https://img.shields.io/badge/-Elysia-informational?style=flat-square)
+![](https://img.shields.io/badge/-Express.JS-success?style=flat-square)
+![](https://img.shields.io/badge/-Hono.js-success?style=flat-square)
   
 ### Frontend
-- **Vue**
-- **React**
+![](https://img.shields.io/badge/-Vue-orange?style=flat-square)
+![](https://img.shields.io/badge/-React-orange?style=flat-square)
 
 ### Game Develpoment
 - **Unity**
