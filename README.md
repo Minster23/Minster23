@@ -34,6 +34,18 @@ I've been coding since 2020 and have explored various languages and frameworks. 
 ![](https://img.shields.io/badge/-Godot-success?style=flat-square)
 ![](https://img.shields.io/badge/-OpenGL-success?style=flat-square)
 
+### Database
+![](https://img.shields.io/badge/-MongoDB-red?style=flat-square)
+![](https://img.shields.io/badge/-SQLite-red?style=flat-square)
+![](https://img.shields.io/badge/-Postgres-red?style=flat-square)
+
+---
+## Development Enviroment
+```text
+OS          :: Linux / FreeBSD / Windows
+Editor      :: Visual Studio Code / Neovim
+Versioning  :: Git
+```
 ---
 I'm always on the lookout for exciting projects to collaborate on or new technologies to learn. If you have any ideas or opportunities, feel free to reach out!
 
