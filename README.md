@@ -25,18 +25,15 @@ I've been coding since 2020 and have explored various languages and frameworks. 
 ![](https://img.shields.io/badge/-C%23-brightgreen?style=flat-square)
 ![](https://img.shields.io/badge/-Lua-brightgreen?style=flat-square)
 
----
 ### Backend
 ![](https://img.shields.io/badge/-Elysia-informational?style=flat-square)
 ![](https://img.shields.io/badge/-Express.js-informational?style=flat-square)
 ![](https://img.shields.io/badge/-Hono.js-informational?style=flat-square)
 
----
 ### Frontend
 ![](https://img.shields.io/badge/-Vue-orange?style=flat-square)
 ![](https://img.shields.io/badge/-React-orange?style=flat-square)
 
----
 ### Game Develpoment
 ![](https://img.shields.io/badge/-Unity-success?style=flat-square)
 ![](https://img.shields.io/badge/-Godot-success?style=flat-square)
