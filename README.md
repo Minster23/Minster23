@@ -18,6 +18,7 @@ I've been coding since 2020 and have explored various languages and frameworks. 
 
 ### Languages
 ![](https://img.shields.io/badge/-C%2B%2B-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/-Golang-brightgreen?style=flat-square)
 
 ### Backend
 - **Elysia**
