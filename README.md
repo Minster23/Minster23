@@ -1,9 +1,4 @@
-# 👋 Hi, I'm Neira!
-
-![Profile Views](https://komarev.com/ghpvc/?username=PanPan&color=blue)
-
-Welcome to my GitHub profile!  
-
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Minster23&theme=tokyonight)](https://github.com/Minster23)
 ---
 
 ## 🚀 My GitHub Stats
