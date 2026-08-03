@@ -3,11 +3,10 @@
 
 ## My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panpan&theme=dracula&hide_border=false" />
-</div>
+![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Minster23&stats=true)
 
 ---
+## My Journey
 
 I've been coding since 2020 and have explored various languages and frameworks. My main areas of expertise include:
 
