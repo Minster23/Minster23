@@ -38,7 +38,7 @@ I've been coding since 2020 and have explored various languages and frameworks. 
 ![](https://img.shields.io/badge/-SQLite-red?style=flat-square)
 ![](https://img.shields.io/badge/-Postgres-red?style=flat-square)
 
-### AI WORKFLOW
+### AI Workflow
 ![Static Badge](https://img.shields.io/badge/opencode-orange%3Flogo%3Dgithub)
 ![Static Badge](https://img.shields.io/badge/N8N-orange%3Flogo%3Dgithub)
 
