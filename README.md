@@ -40,7 +40,7 @@ I've been coding since 2020 and have explored various languages and frameworks. 
 
 ### AI Workflow
 ![Static Badge](https://img.shields.io/badge/opencode-orange%3Flogo%3Dgithub)
-![Static Badge](https://img.shields.io/badge/N8N-orange%3Flogo%3Dgithub)
+![Static Badge](https://img.shields.io/badge/9Router-orange%3Flogo%3Dgithub)
 
 ### CI/CD
 ![Static Badge](https://img.shields.io/badge/Docker-red)
