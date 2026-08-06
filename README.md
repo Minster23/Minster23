@@ -54,7 +54,7 @@ Editor      :: Visual Studio Code / Neovim
 Versioning  :: Git
 ```
 ---
-## Sertificate
+## Google Skill Badge
 [![Develop with Apps Script and AppSheet Skill Badge](https://credly.com)](https://www.credly.com/badges/d81b256c-35d6-4909-b1ca-5efa9daab7aa/public_url)
 [![Implement CI/CD Pipelines on Google Cloud](https://credly.com)](https://www.credly.com/badges/5dfe51f0-89b3-4e39-93f9-8361b467a7c6/public_url)
 
