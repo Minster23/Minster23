@@ -1,14 +1,7 @@
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Minster23&theme=tokyonight)](https://github.com/Minster23)
----
-
 ## My GitHub Stats
 
 ![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Minster23&stats=true)
 
----
-## My Journey
-
-I've been coding since 2020 and have explored various languages and frameworks. My main areas of expertise include:
 
 ### Languages
 ![](https://img.shields.io/badge/-C%2B%2B-brightgreen?style=flat-square)
