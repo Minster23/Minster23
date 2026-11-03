@@ -27,7 +27,7 @@
 ### CI/CD
 ![Static Badge](https://img.shields.io/badge/Docker-red)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-red)
-![Static Badge](https://img.shields.io/badge/Github)
+![Static Badge](https://img.shields.io/badge/Github-red)
 
 ---
 I'm always on the lookout for exciting projects to collaborate on or new technologies to learn. If you have any ideas or opportunities, feel free to reach out!
