@@ -38,11 +38,6 @@
 ![Static Badge](https://img.shields.io/badge/Kubernetes-red)
 
 ---
-## Google Skill Badge
-[![Develop with Apps Script and AppSheet Skill Badge](https://credly.com)](https://www.credly.com/badges/d81b256c-35d6-4909-b1ca-5efa9daab7aa/public_url)
-[![Implement CI/CD Pipelines on Google Cloud](https://credly.com)](https://www.credly.com/badges/5dfe51f0-89b3-4e39-93f9-8361b467a7c6/public_url)
-
----
 I'm always on the lookout for exciting projects to collaborate on or new technologies to learn. If you have any ideas or opportunities, feel free to reach out!
 
 ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFkanBpNDM2dzJwYnQ5ZGswZnkzaWRlMnpiN29mZTM2dDI0bjBvaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GyMM5HbTjiMIUPsKmL/giphy.gif)
