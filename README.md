@@ -19,11 +19,6 @@
 ![](https://img.shields.io/badge/-Vue-orange?style=flat-square)
 ![](https://img.shields.io/badge/-React-orange?style=flat-square)
 
-### Game Develpoment
-![](https://img.shields.io/badge/-Unity-success?style=flat-square)
-![](https://img.shields.io/badge/-Godot-success?style=flat-square)
-![](https://img.shields.io/badge/-OpenGL-success?style=flat-square)
-
 ### Database
 ![](https://img.shields.io/badge/-MongoDB-red?style=flat-square)
 ![](https://img.shields.io/badge/-SQLite-red?style=flat-square)
