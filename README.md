@@ -1,5 +1,3 @@
-## My GitHub Stats
-
 ![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Minster23&stats=true)
 
 
