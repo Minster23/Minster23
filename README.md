@@ -1,5 +1,6 @@
 ![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Minster23&stats=true)
 
+---
 
 ### Languages
 ![](https://img.shields.io/badge/-C%2B%2B-brightgreen?style=flat-square)
